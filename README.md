@@ -1,5 +1,5 @@
 # 문맹탈출 - Capstone1 Project  
-                  made by. 정환성, 김현우, 
+#              made by. 정환성, 김현우, 조규진
 # 1. 목차  
 1. [목차](#1---)
 2. [Translation PRJ](#2-translation-prj)  
